@@ -12,6 +12,7 @@ In this Project, I walk you through an interactive eCommerce shipping dashboard 
 ✅ Clean & User-Friendly Dashboard Design
 
 🛠 Tools Used:
+
 Power BI Desktop
 
 DAX Functions
@@ -21,6 +22,7 @@ Data Modeling & Visualization
 Dataset: eCommerce Shipment Data (Demo)
 
 💡 What You'll Learn:
+
 How to create interactive dashboards in Power BI.
 
 How to choose the right visuals for storytelling.
@@ -28,11 +30,6 @@ How to choose the right visuals for storytelling.
 How to gain insights from logistics & shipping data.
 
 How to track business KPIs effectively.
-
-📌 Let’s Connect:
-🔗 GitHub (Projects): https://github.com/Goblinpiyush
-📧 For collaborations: piyushwork248@gmail.com
-👨‍💻 Portfolio: https://goblinpiyush.github.io/Portfolio/
 
 I have also added a youtube explanation video of my Project.
 You can watch by following this link: https://youtu.be/35BswL3FI8k
