@@ -2,9 +2,13 @@ In this Project, I walk you through an interactive eCommerce shipping dashboard 
 
 🔍 What’s Inside:
 ✅ KPI Cards: On-time Delivery Rate, Late Delivery Risk, Cost, Profit
+
 ✅ Shipment Mode Analysis
+
 ✅ Product Importance Distribution (High, Medium, Low)
+
 ✅ Stacked Bar Visuals for Comparison Insights
+
 ✅ Clean & User-Friendly Dashboard Design
 
 🛠 Tools Used:
